@@ -10,9 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently diving deep into LLMs, RAG pipelines, LangChain, and building AI-powered APIs using FastAPI.
- 🎯Goals: Build smart, AI-driven platforms that actually help people learn and grow
-🎲 Fun fact: I talk to my AI models like they're my teammates — and sometimes, they actually reply better than humans 😅.</p>
+<p align="left">
+  📚 I'm currently diving deep into LLMs, RAG pipelines, LangChain, and building AI-powered APIs using FastAPI.<br>
+  🎯 Goals: Build smart, AI-driven platforms that actually help people learn and grow<br>
+  🎲 Fun fact: I talk to my AI models like they're my teammates — and sometimes, they actually reply better than humans 😅.
+</p>
 
 ###
 
